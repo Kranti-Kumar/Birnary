@@ -81,7 +81,7 @@ export default function Decimal({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "black",
+    backgroundColor: "#00203FFF",
   },
   HeaderB: {
     alignItems: "center",
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     fontSize: 40,
     fontWeight: "bold",
     padding: 10,
-    color: "red",
+    color: "#ADEFD1FF",
   },
   main: {
     fontSize: 23,
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     color: "white",
     marginHorizontal: 20,
     borderRadius: 5,
-    borderColor: "red",
+    borderColor: "#ADEFD1FF",
     borderWidth: 2,
     padding: 10,
   },
@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     height: 50,
     borderRadius: 5,
-    borderColor: "red",
+    borderColor: "#ADEFD1FF",
     borderWidth: 2,
     color: "white",
     padding: 10,
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
     margin: 20,
     borderRadius: 20,
     alignSelf: "center",
-    backgroundColor: "red",
+    backgroundColor: "#ADEFD1FF",
     justifyContent: "center",
   },
   Button1: {
@@ -133,13 +133,13 @@ const styles = StyleSheet.create({
     marginHorizontal: 20,
     marginVertical: 10,
     borderRadius: 20,
-    backgroundColor: "red",
+    backgroundColor: "#ADEFD1FF",
     justifyContent: "center",
   },
   convert: {
     fontSize: 20,
     alignSelf: "center",
-    color: "white",
+    color: "#00203FFF",
   },
   reverse: {
     flexDirection: "row",
@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
   },
   exampletext: {
     fontSize: 24,
-    color: "red",
+    color: "#ADEFD1FF",
     margin: 10,
   },
   exampal: {
